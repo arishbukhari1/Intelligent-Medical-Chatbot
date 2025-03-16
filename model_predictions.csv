@@ -1,0 +1,71 @@
+Disease,Symptoms,Note,Predicted_Disease
+Meningitis,"Sudden fever, stiff neck, severe headache, nausea, vomiting, confusion, sensitivity to light, seizures",Symptoms can vary between bacterial (more severe) and viral meningitis.,Lyme Disease
+Leprosy (Hansenâ€™s Disease),"Skin lesions, numbness, muscle weakness, thickened nerves, ulcers on the soles of the feet","Leprosy primarily affects the skin, nerves, and mucous membranes.",Lyme Disease
+Tetanus,"Muscle stiffness, jaw cramping (lockjaw), trouble swallowing, seizures, fever, sweating, high blood pressure, rapid heart rate",Tetanus is caused by a bacterial toxin and is preventable through vaccination.,Lyme Disease
+Yellow Fever,"Fever, chills, headache, back pain, muscle aches, fatigue, jaundice, bleeding, organ failure in severe cases",Yellow fever is a mosquito-borne viral disease.,Lyme Disease
+Typhoid Fever,"High fever, weakness, stomach pain, headache, loss of appetite, constipation or diarrhea, rash","Caused by Salmonella typhi, often spread through contaminated food or water.",Lyme Disease
+Rabies,"Fever, headache, excess salivation, muscle spasms, paralysis, confusion, hydrophobia (fear of water)",Rabies is almost always fatal once symptoms appear.,Lyme Disease
+Giardiasis,"Diarrhea, gas, greasy stools, stomach cramps, nausea, dehydration, fatigue","Caused by the parasite Giardia lamblia, often from contaminated water.",Lyme Disease
+Celiac Disease,"Diarrhea, bloating, gas, fatigue, weight loss, anemia, skin rash (dermatitis herpetiformis)",Triggered by gluten consumption in genetically predisposed individuals.,Lyme Disease
+Psoriasis,"Red, scaly skin patches, itching, burning, dry and cracked skin, thickened nails, joint pain (psoriatic arthritis)","An autoimmune condition with no cure, but symptoms can be managed.",Lyme Disease
+Anemia,"Fatigue, weakness, pale skin, shortness of breath, dizziness, cold hands and feet, chest pain","Can result from iron deficiency, vitamin B12 deficiency, or chronic disease.",Lyme Disease
+Gonorrhea,"Painful urination, pus-like discharge, swollen testicles, increased vaginal discharge, pelvic pain",A sexually transmitted infection caused by Neisseria gonorrhoeae.,Lyme Disease
+Syphilis,"Painless sores, skin rashes, mucous membrane lesions, fever, swollen lymph nodes, neurological symptoms in late stages",Progresses in stages if untreated; can cause severe complications.,Lyme Disease
+Polio (Poliomyelitis),"Fever, sore throat, headache, vomiting, stiffness in neck and back, paralysis in severe cases",Polio is now rare due to widespread vaccination.,Lyme Disease
+Hantavirus Pulmonary Syndrome,"Fever, muscle aches, dizziness, gastrointestinal issues, coughing, shortness of breath",Caused by exposure to rodent droppings or urine.,Lyme Disease
+Bacterial Vaginosis,"Thin, grayish-white vaginal discharge with a fishy odor, burning during urination, itching",Caused by an imbalance of vaginal bacteria.,Lyme Disease
+Toxoplasmosis,"Flu-like symptoms, swollen lymph nodes, muscle aches, eye issues (blurred vision), confusion in severe cases","Caused by the parasite Toxoplasma gondii, often from undercooked meat or cat feces.",Lyme Disease
+Legionnaires' Disease,"Cough, shortness of breath, high fever, muscle aches, headaches, gastrointestinal symptoms","Caused by Legionella bacteria, often from contaminated water systems.",Lyme Disease
+Scarlet Fever,"Red rash, sore throat, high fever, ""strawberry"" tongue, flushed face, skin peeling",Caused by group A Streptococcus bacteria.,Lyme Disease
+Hemophilia,"Excessive bleeding, easy bruising, joint pain and swelling, prolonged bleeding after injury or surgery",A genetic disorder affecting blood clotting.,Lyme Disease
+Plague (Yersinia pestis),"Sudden fever, chills, headache, weakness, swollen lymph nodes (bubonic plague), chest pain (pneumonic plague)",Rare but serious; transmitted by fleas or respiratory droplets.,Lyme Disease
+Glaucoma,"Eye pain, blurred vision, headache, halos around lights, nausea, vision loss in severe cases",Often asymptomatic in early stages; regular eye exams are crucial.,Lyme Disease
+Irritable Bowel Syndrome (IBS),"Abdominal pain, cramping, bloating, gas, diarrhea, constipation, or both",A functional gastrointestinal disorder with no known cure.,Lyme Disease
+Cystic Fibrosis,"Salty-tasting skin, persistent cough, lung infections, wheezing, poor growth, digestive issues",A genetic disorder affecting the lungs and digestive system.,Lyme Disease
+Hemorrhoids,"Rectal bleeding, itching, discomfort, swelling around the anus, pain during bowel movements",Often caused by straining during bowel movements or pregnancy.,Lyme Disease
+Pancreatitis,"Upper abdominal pain, nausea, vomiting, fever, rapid pulse, back pain, tenderness in the abdomen",Can be acute or chronic; often linked to gallstones or alcohol use.,Lyme Disease
+Gout,"Sudden, severe joint pain (often in the big toe), swelling, redness, warmth, stiffness",Caused by uric acid crystal buildup in joints.,Lyme Disease
+Endometriosis,"Pelvic pain, painful periods, pain during intercourse, infertility, fatigue, digestive issues",A condition where tissue similar to the uterine lining grows outside the uterus.,Lyme Disease
+Migraine,"Intense headache, nausea, vomiting, sensitivity to light and sound, visual disturbances (aura)","Often triggered by stress, hormonal changes, or certain foods.",Lyme Disease
+Urinary Tract Infection (UTI),"Burning sensation during urination, frequent urge to urinate, cloudy or strong-smelling urine, pelvic pain",More common in women; can affect the bladder (cystitis) or kidneys (pyelonephritis).,Lyme Disease
+Mononucleosis (Mono),"Fatigue, sore throat, fever, swollen lymph nodes, headache, skin rash, soft and swollen spleen",Caused by the Epstein-Barr virus (EBV).,Lyme Disease
+Gastroenteritis (Stomach Flu),"Diarrhea, vomiting, abdominal cramps, fever, dehydration, headache","Often caused by viruses (e.g., norovirus) or bacteria.",Lyme Disease
+Amyotrophic Lateral Sclerosis (ALS),"Muscle weakness, twitching, slurred speech, difficulty swallowing, breathing problems",A progressive neurodegenerative disease.,Lyme Disease
+Barrett's Esophagus,"Frequent heartburn, difficulty swallowing, chest pain, regurgitation, chronic cough",A complication of chronic acid reflux.,Lyme Disease
+Myocardial Infarction (Heart Attack),"Chest pain or discomfort, shortness of breath, nausea, cold sweats, fatigue, lightheadedness","Symptoms can differ in women (e.g., jaw pain, fatigue).",Lyme Disease
+Chikungunya,"High fever, joint pain, headache, muscle pain, rash, joint swelling",A mosquito-borne viral disease.,Lyme Disease
+Tonsillitis,"Sore throat, difficulty swallowing, red and swollen tonsils, white or yellow coating, fever, bad breath","Can be caused by viruses or bacteria (e.g., strep throat).",Lyme Disease
+Whooping Cough (Pertussis),"Severe coughing fits, whooping sound when inhaling, vomiting after coughing, exhaustion",Preventable through vaccination.,Lyme Disease
+Otitis Media (Middle Ear Infection),"Ear pain, trouble hearing, fluid drainage, fever, irritability in children",Common in children; often follows a cold.,Lyme Disease
+Appendicitis,"Sudden pain in the lower right abdomen, nausea, vomiting, fever, loss of appetite, constipation or diarrhea",Requires immediate medical attention to prevent rupture.,Lyme Disease
+Sepsis,"Rapid breathing, confusion, fever, rapid heart rate, low blood pressure, chills, extreme discomfort",A life-threatening response to infection.,Lyme Disease
+Influenza (Flu),"Fever, chills, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue",Caused by influenza viruses; seasonal vaccines are available for prevention.,Lyme Disease
+COVID-19,"Fever, dry cough, fatigue, loss of taste or smell, shortness of breath, sore throat, headache, muscle pain",Caused by the SARS-CoV-2 virus; vaccination and booster doses are recommended for prevention.,Lyme Disease
+Malaria,"High fever, chills, sweating, headache, nausea, vomiting, muscle pain, fatigue",Caused by Plasmodium parasites transmitted through mosquito bites; common in tropical regions.,Lyme Disease
+Tuberculosis (TB),"Persistent cough (sometimes with blood), chest pain, weight loss, fever, night sweats, fatigue",Caused by Mycobacterium tuberculosis; treatable with antibiotics but drug-resistant strains exist.,Lyme Disease
+Diabetes Mellitus,"Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, blurred vision, slow-healing sores",Type 1 is an autoimmune condition; Type 2 is often linked to lifestyle factors. Requires lifelong management.,Lyme Disease
+Hypertension (High Blood Pressure),"Often asymptomatic, but severe cases may include headaches, dizziness, blurred vision, chest pain, or shortness of breath",A major risk factor for heart disease and stroke; managed with lifestyle changes and medication.,Lyme Disease
+Asthma,"Shortness of breath, wheezing, chest tightness, coughing (especially at night or early morning)","A chronic inflammatory condition of the airways; triggers include allergens, exercise, and stress.",Lyme Disease
+Dengue Fever,"High fever, severe headache, pain behind the eyes, joint and muscle pain, rash, mild bleeding (e.g., nose or gums)",A mosquito-borne viral disease; severe cases can lead to dengue hemorrhagic fever.,Lyme Disease
+Hepatitis B,"Fatigue, fever, abdominal pain, dark urine, joint pain, jaundice (yellowing of skin and eyes)",Caused by the hepatitis B virus (HBV); preventable with vaccination.,Lyme Disease
+Pneumonia,"Cough (with phlegm), fever, chills, difficulty breathing, chest pain, fatigue, confusion (in older adults)","Can be caused by bacteria, viruses, or fungi; vaccines are available for some types.",Lyme Disease
+Alzheimerâ€™s Disease,"Memory loss, confusion, difficulty with language, disorientation, mood swings, behavioral changes","A progressive neurodegenerative disease; no cure, but treatments can slow progression.",Lyme Disease
+HIV/AIDS,"Fever, chills, rash, night sweats, muscle aches, sore throat, fatigue, swollen lymph nodes, weight loss",Caused by the human immunodeficiency virus (HIV); antiretroviral therapy (ART) can manage the condition.,Lyme Disease
+Cholera,"Severe diarrhea, vomiting, dehydration, muscle cramps, rapid heart rate, low blood pressure",Caused by Vibrio cholerae; spread through contaminated water; preventable with proper sanitation.,Lyme Disease
+Ebola Virus Disease,"Fever, severe headache, muscle pain, weakness, diarrhea, vomiting, abdominal pain, unexplained bleeding","A severe, often fatal disease caused by the Ebola virus; outbreaks occur primarily in Africa.",Lyme Disease
+Lyme Disease,"Bullseye-shaped rash, fever, chills, headache, fatigue, muscle and joint aches, swollen lymph nodes",Caused by Borrelia burgdorferi bacteria transmitted through tick bites.,Lyme Disease
+Parkinsonâ€™s Disease,"Tremors, stiffness, slow movement, impaired balance, speech changes, writing changes",A progressive nervous system disorder; treatment focuses on symptom management.,Lyme Disease
+Stroke,"Sudden numbness or weakness (especially on one side of the body), confusion, trouble speaking, vision problems, dizziness, severe headache",A medical emergency caused by interrupted blood flow to the brain; time is critical for treatment.,Lyme Disease
+Cancer (General),"Unexplained weight loss, fatigue, persistent pain, skin changes, unusual bleeding, lumps or swelling, changes in bowel or bladder habits",Early detection improves outcomes; treatment varies by type and stage.,Lyme Disease
+Rheumatoid Arthritis,"Joint pain, swelling, stiffness (especially in the morning), fatigue, fever, loss of appetite",An autoimmune disorder; treatment includes medications and lifestyle changes.,Lyme Disease
+Zika Virus,"Mild fever, rash, joint pain, conjunctivitis (red eyes), muscle pain, headache",A mosquito-borne virus; can cause birth defects if contracted during pregnancy.,Lyme Disease
+Measles,"High fever, cough, runny nose, red eyes, rash (starts on the face and spreads), small white spots inside the mouth",Highly contagious; preventable with the MMR vaccine.,Lyme Disease
+Chickenpox,"Itchy rash, fever, headache, fatigue, loss of appetite",Caused by the varicella-zoster virus; preventable with vaccination.,Lyme Disease
+Chronic Obstructive Pulmonary Disease (COPD),"Shortness of breath, chronic cough, wheezing, chest tightness, frequent respiratory infections",Often caused by smoking; includes chronic bronchitis and emphysema.,Lyme Disease
+Schizophrenia,"Hallucinations, delusions, disorganized thinking, lack of motivation, social withdrawal, impaired cognitive function",A chronic mental health disorder; treatment includes antipsychotic medications and therapy.,Lyme Disease
+Multiple Sclerosis (MS),"Numbness or weakness in limbs, vision problems, fatigue, dizziness, electric-shock sensations with neck movements","An autoimmune disease affecting the central nervous system; no cure, but treatments can slow progression.",Lyme Disease
+Lupus,"Fatigue, joint pain, rash (butterfly-shaped on the face), fever, hair loss, sensitivity to sunlight",An autoimmune disease; symptoms vary widely and can affect multiple organs.,Lyme Disease
+Osteoporosis,"Often asymptomatic until a fracture occurs; may include back pain, loss of height, stooped posture","A condition of weakened bones; prevention includes calcium, vitamin D, and weight-bearing exercise.",Lyme Disease
+Hypothyroidism,"Fatigue, weight gain, cold intolerance, dry skin, hair loss, constipation, depression",Caused by an underactive thyroid gland; treated with synthetic thyroid hormone.,Lyme Disease
+Hyperthyroidism,"Weight loss, rapid heartbeat, sweating, nervousness, irritability, tremors, heat intolerance","Caused by an overactive thyroid gland; treatment includes medications, radioactive iodine, or surgery.",Lyme Disease
+Lyme Disease,"Bullseye-shaped rash, fever, chills, headache, fatigue, muscle and joint aches, swollen lymph nodes",Caused by Borrelia burgdorferi bacteria transmitted through tick bites.,Lyme Disease
