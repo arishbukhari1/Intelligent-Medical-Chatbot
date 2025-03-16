@@ -42,16 +42,16 @@ A user-friendly application incorporating a chatbot that allows users to input s
 
 The chatbot integrates with an NLP model to get a list of potential diseases associated with the user-provided symptoms and provide actionable medical recommendations 
 
-**NLP model for symptom-disease mapping 
-**
+**NLP model for symptom-disease mapping**
+
 Implementation of a multi-class classification model that maps user provided symptoms to potential diseases 
 
-**Medical Assistance Recommendations 
-**
+**Medical Assistance Recommendations**
+
 Depending on the list of symptoms and their urgency and gravity, the solution provides recommendations about the most appropriate medical assistance, whether it be urgent care, specialist consultation, or general medical advice. 
 
-**Telemedicine Integrations 
-**
+**Telemedicine Integrations**
+
 To enhance the user experience, the app will integrate with telemedicine platforms through APIs, providing seamless access to recommended physicians and medical experts in the relevant field (e.g., https://developers.mdlivetechnology.com/). This approach ensures timely and accurate healthcare guidance, bridging the gap between symptom detection and professional medical support.
 
 # Evaluation Metrics 
